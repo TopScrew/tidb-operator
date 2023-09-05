@@ -3,6 +3,7 @@
   "extends": [
     "config:base"
   ],
+  "dependencyDashboardApproval": true,
   "labels": ["dependencies"],
   "vulnerabilityAlerts": {
     "enabled": true
